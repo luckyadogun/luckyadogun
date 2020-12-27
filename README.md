@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyadogun&hide=css,html&layout=compact)](https://github.com/luckyadogun/github-readme-stats)[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luckyadogun)](https://github.com/luckyadogun/github-readme-stats)
 
-I write about Micro-startups, Tech and Personal stories at https://blog.zencoder.xyz
+I write about Micro-startups, Tech and Personal stories at https://blog.zencoder.xyz 
