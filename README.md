@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Visits Badge](https://badges.pufler.dev/visits/luckyadogun/git-badges)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/luckyadogun/luckyadogun)](https://badges.pufler.dev)
 
 **I'm Lucky Adogun (@zencoder),**
 
