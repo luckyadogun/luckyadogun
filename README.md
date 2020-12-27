@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 [![Visits Badge](https://badges.pufler.dev/visits/luckyadogun/luckyadogun)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/luckyadogun)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/luckyadogun)](https://badges.pufler.dev)
 
-**I'm Lucky Adogun, I build and break stuffs ✨**
+**I'm Lucky (yup, that's my name), I build and break stuffs ✨**
 
 **I am a Full-Stack Developer from Lagos, Nigeria** 
 
 ### BIO
 * ⚙️ I use daily: `.py`, `.js`, `.vue`, `.psd`, `.ai`
 * 💬 Ask me about: **Python, VueJS and Figma**
-* ⚡ Fun fact: A plate of [Jollof Rice](https://en.wikipedia.org/wiki/Jollof_rice) + Rick and Morty will always make me smile.
+* ⚡ Fun fact: Try convincing me with [Jollof Rice](https://en.wikipedia.org/wiki/Jollof_rice) while watching episodes of Rick and Morty.
 * 📫 Feel free to buzz me: [@iam_zencoder](https://twitter.com/iam_zencoder) on Twitter
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyadogun&hide=css,html&layout=compact)](https://github.com/luckyadogun/github-readme-stats)
