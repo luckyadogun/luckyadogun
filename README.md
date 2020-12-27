@@ -15,13 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Visits Badge](https://badges.pufler.dev/visits/luckyadogun/luckyadogun)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/luckyadogun/luckyadogun)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/luckyadogun)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/luckyadogun)](https://badges.pufler.dev)
 
-**I'm Lucky Adogun (@zencoder),**
+**I'm Lucky Adogun, I build and break stuffs ✨**
 
 **I am a Full-Stack Developer from Lagos, Nigeria** 
 
 ### BIO
 * ⚙️ I use daily: `.py`, `.js`, `.vue`, `.psd`, `.ai`
-* ⚡ Fun fact: The way to my heart is a plate of [Jollof Rice](https://en.wikipedia.org/wiki/Jollof_rice). 
-* 📫 Feel free to buzz me: https://twitter.com/iam_zencoder
+* 💬 Ask me about: **Python, VueJS and Figma**
+* ⚡ Fun fact: A plate of [Jollof Rice](https://en.wikipedia.org/wiki/Jollof_rice) + Rick and Morty will always make me smile.
+* 📫 Feel free to buzz me: [@iam_zencoder](https://twitter.com/iam_zencoder) on Twitter
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyadogun&hide=css,html&layout=compact)](https://github.com/luckyadogun/github-readme-stats)[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luckyadogun)](https://github.com/luckyadogun/github-readme-stats)
+
+I write about Micro-startups, Tech and Personal stories at https://blog.zencoder.xyz
