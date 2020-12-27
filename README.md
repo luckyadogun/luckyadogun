@@ -19,15 +19,16 @@ Here are some ideas to get you started:
 
 **I'm Lucky (yup, that's my name), I build and break stuffs ✨**
 
-**I am a Full-Stack Developer from Lagos, Nigeria** 
+**Discretion: This homo-sapien runs on coffee☕ + music 🎵. Take any out and he's totally unplugged!😬** 
 
 ### BIO
 * ⚙️ I use daily: `.py`, `.js`, `.vue`, `.psd`, `.ai`
 * 💬 Ask me about: **Python, VueJS and Figma**
-* ⚡ Fun fact: Try convincing me with [Jollof Rice](https://en.wikipedia.org/wiki/Jollof_rice) while watching episodes of Rick and Morty.
+* ⚡ Fun fact: Give me [Jollof Rice](https://en.wikipedia.org/wiki/Jollof_rice) and [Rick and Morty](https://en.wikipedia.org/wiki/Rick_and_Morty), and I'd give you the world.
 * 📫 Feel free to buzz me: [@iam_zencoder](https://twitter.com/iam_zencoder) on Twitter
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyadogun&hide=css,html&layout=compact)](https://github.com/luckyadogun/github-readme-stats)
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luckyadogun&show_icons=true&theme=radical)](https://github.com/luckyadogun/github-readme-stats)
 
 I write about Micro-startups, Tech and Personal stories at https://blog.zencoder.xyz 
