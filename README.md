@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Visits Badge](https://badges.pufler.dev/visits/luckyadogun/git-badges)](https://badges.pufler.dev)
+
+**I'm Lucky Adogun (@zencoder),**
+
+**I am a Full-Stack Developer from Lagos, Nigeria** 
+
+### BIO
+* ⚙️ I use daily: `.py`, `.js`, `.vue`, `.psd`, `.ai`
+* ⚡ Fun fact: The way to my heart is a plate of [Jollof Rice](https://en.wikipedia.org/wiki/Jollof_rice). 
+* 📫 Feel free to buzz me: https://twitter.com/iam_zencoder
