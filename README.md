@@ -5,6 +5,8 @@
 <!--
 **luckyadogun/luckyadogun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luckyadogun&show_icons=true&theme=radical)](https://github.com/luckyadogun/github-readme-stats) 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -29,6 +31,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyadogun&hide=css,html&layout=compact)](https://github.com/luckyadogun/github-readme-stats) 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luckyadogun&show_icons=true&theme=radical)](https://github.com/luckyadogun/github-readme-stats)
 
 I write about Micro-startups, Tech and Personal stories at https://blog.zencoder.xyz 
