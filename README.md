@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**I'm Lucky (yup, that's my name), I build and break stuffs ✨**
+**I'm Lucky (yup, that's my name), I build stuffs (and not afraid to break them) ✨**
 
 **Discretion: This homo-sapien runs on coffee☕ + music 🎵. Take any out and he's totally unplugged!😬** 
 
