@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### BIO
 * ⚙️ I use daily: `.py`, `.js`, `.vue`, `.psd`, `.ai`
-* 💬 Ask me about: **Python, JavaScript, SQL and Figma** 
+* 💬 Ask me about: **Python, VueJS/ReactJS, SQL and Figma** 
 * ⚡ Fun fact: Give me [Jollof Rice](https://en.wikipedia.org/wiki/Jollof_rice) and [Rick and Morty](https://en.wikipedia.org/wiki/Rick_and_Morty), and I'd give you the world.
 * 📫 Feel free to buzz me: [@iam_zencoder](https://twitter.com/iam_zencoder) on Twitter
 
